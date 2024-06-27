@@ -1,0 +1,14 @@
+Wed May 22 23:01:03 CST 2024 : Apache Derby 網路伺服器 - 10.17.1.0 - (1913217) 已啟動，並且準備接受連接埠 1527 上的連線
+----------------------------------------------------------------
+Wed May 22 23:01:12 CST 2024：
+ 正在使用類別載入器 jdk.internal.loader.ClassLoaders$AppClassLoader@4f2410ac 啟動資料庫
+目錄 /home/wuray/demo/db-derby-10.17.1.0-bin/myDB 中的 Derby 版本 The Apache Software Foundation - Apache Derby - 10.17.1.0 - (1913217) 實例 a816c00e-018f-a0d1-ea44-000004c7b390
+載入自 file:/home/wuray/demo/db-derby-10.17.1.0-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=21.0.2+13-LTS-58
+user.dir=/home/wuray/demo/db-derby-10.17.1.0-bin
+os.name=Linux
+os.arch=amd64
+os.version=6.5.0-35-generic
+derby.system.home=null
+已啟動「資料庫類別載入器」- derby.database.classpath= ''
